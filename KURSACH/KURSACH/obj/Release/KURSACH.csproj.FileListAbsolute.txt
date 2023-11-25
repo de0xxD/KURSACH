@@ -1,0 +1,13 @@
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\bin\Release\KURSACH.exe.config
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\bin\Release\KURSACH.exe
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\bin\Release\KURSACH.pdb
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\bin\Release\System.Data.SQLite.dll
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\bin\Release\System.Data.SQLite.xml
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.csproj.AssemblyReference.cache
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.MainForm.resources
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.Properties.Resources.resources
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.csproj.GenerateResource.cache
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.csproj.CoreCompileInputs.cache
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.csproj.CopyComplete
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.exe
+E:\STUDY\2курс\KURSACH\KURSACH\KURSACH\obj\Release\KURSACH.pdb
